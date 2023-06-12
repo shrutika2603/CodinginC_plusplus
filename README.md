@@ -8,7 +8,7 @@ In this repository, I store a collection of C++ programs ranging from basic to a
 To run the programs in this repository, you need to have a C++ compiler installed on your system. Here's how you can get started:
 
 1. Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/shrutika2603/cpp_programming 
 
 2. Compile and run the programs using your preferred C++ compiler. For example, if you're using the GNU Compiler Collection (GCC), you can compile a program named 'example.cpp' with the following command:
 g++ example.cpp -o example
