@@ -27,14 +27,13 @@ g++ example.cpp -o example
 5. [Hello world](https://github.com/shrutika2603/cpp_programming/blob/main/hello.cpp)
 6. [Prime Numbers](https://github.com/shrutika2603/cpp_programming/blob/main/prime.cpp)
 7. [Sum of n positive numbers](https://github.com/shrutika2603/cpp_programming/blob/main/sum.cpp)
-8. [Patterns](https://github.com/shrutika2603/cpp_programming/tree/main/patterns)
+
 8.1. [Pattern 1](https://github.com/shrutika2603/cpp_programming/blob/main/patterns/pattern1.cpp)
-
 8.2. [Pattern 2](https://github.com/shrutika2603/cpp_programming/blob/main/patterns/pattern2.cpp)
-
 8.3. [Pattern 3](https://github.com/shrutika2603/cpp_programming/blob/main/patterns/pattern3.cpp)
-
 8.4. [Pattern 4](https://github.com/shrutika2603/cpp_programming/blob/main/patterns/pattern4.cpp)
+
+
 ## Contributing
 
 Contributions are always welcome!
