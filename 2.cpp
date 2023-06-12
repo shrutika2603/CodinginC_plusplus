@@ -14,7 +14,4 @@ int main(){
     if(b>a){
         cout<<"b is greater"<<endl;
     }
-    else{
-        cout<<"a and b are equal"<<endl;
-    }
 }
