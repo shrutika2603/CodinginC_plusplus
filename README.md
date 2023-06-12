@@ -43,6 +43,9 @@ If you would like to contribute to this repository, you can follow these steps:
 5. Push your branch to your forked repository.
 6. Submit a pull request to the original repository.
 
+## License 
+[Unlicense ©️ Shrutika Jha](https://github.com/shrutika2603/cpp_programming/blob/main/license)
+
 
 ## Contact
 Reach out to me at shrutikajha2603@gmail.com
