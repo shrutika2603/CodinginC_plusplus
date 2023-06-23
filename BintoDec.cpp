@@ -1,3 +1,5 @@
+// Convert binary to decimal
+
 #include <iostream>
 #include <math.h>
 using namespace std;

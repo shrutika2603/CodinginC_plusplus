@@ -1,3 +1,5 @@
+//Calculating a to the power b
+
 #include <iostream>
 using namespace std;
 

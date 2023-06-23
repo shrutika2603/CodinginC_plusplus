@@ -1,3 +1,5 @@
+// Calculate complement of a number. For eg: 5 --> 2 ; 7 --> 0;
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//Check no. is even or odd using functions
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,5 @@
+// Calculate nth term of the A.P 3*n + 7
+
 #include <iostream>
 using namespace std;
 #include <math.h>

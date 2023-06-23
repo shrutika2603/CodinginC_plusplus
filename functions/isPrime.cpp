@@ -1,3 +1,5 @@
+//Prime number check using functions
+
 #include <iostream>
 using namespace std;
 

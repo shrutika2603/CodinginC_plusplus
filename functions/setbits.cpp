@@ -1,3 +1,5 @@
+//Input two integers and calculate total setbits (1)
+
 #include <iostream>
 using namespace std;
 #include <math.h>

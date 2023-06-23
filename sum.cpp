@@ -1,3 +1,5 @@
+//Display n numbers and their sum
+
 #include <iostream>
 using namespace std;
 

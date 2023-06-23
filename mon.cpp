@@ -1,3 +1,5 @@
+//Counting number of notes in a given amount
+
 #include <iostream>
 using namespace std;
 
